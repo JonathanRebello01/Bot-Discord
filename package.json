@@ -1,5 +1,24 @@
 {
   "dependencies": {
-    "discord.js": "^14.8.0"
-  }
+    "discord.js": "^14.8.0",
+    "dotenv": "^16.0.3"
+  },
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonathanRebello01/Bot-Discord.git"
+  },
+  "keywords": [],
+  "author": "JOnathan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonathanRebello01/Bot-Discord/issues"
+  },
+  "homepage": "https://github.com/JonathanRebello01/Bot-Discord#readme",
+  "description": "Bot para discord desenvolvido com js"
 }
